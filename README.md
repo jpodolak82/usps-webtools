@@ -1,7 +1,7 @@
 ### Installation:
 
 ``` sh
-npm install usps-webtools
+npm install usps-webtools-fixed
 ```
 
 ### Usage:
@@ -11,7 +11,7 @@ Initializing the usps model with usps server url address, and user id.
 __Example:__
 
 ``` js
-USPS = require('usps-webtools');
+USPS = require('usps-webtools-fixed');
 
 var usps = new USPS({
   server: 'http://production.shippingapis.com/ShippingAPI.dll',
