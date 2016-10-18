@@ -1,6 +1,6 @@
 {
   "name": "usps-webtools-fixed",
-  "author": "Sherod Taylor <sherodtaylor@gmail.com>",
+  "author": "",
   "description": "USPS Web-Tools api wrapper fix",
   "version": "0.1.2",
   "main": "./src/usps",
