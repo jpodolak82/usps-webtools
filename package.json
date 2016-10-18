@@ -1,10 +1,10 @@
 {
-  "name": "usps-webtools",
+  "name": "usps-webtools-fixed",
   "author": "Sherod Taylor <sherodtaylor@gmail.com>",
-  "description": "Api wrapper for the USPS Web-Tools",
-  "version": "0.1.1",
+  "description": "USPS Web-Tools api wrapper fix",
+  "version": "0.1.2",
   "main": "./src/usps",
-  "repository": "git://github.com/MadisonReed/usps-webtools",
+  "repository": "git://github.com/jpodolak82/usps-webtools",
   "contributors": [
     {
       "name": "Sherod Taylor",
@@ -17,16 +17,15 @@
     {
       "name": "Scott Stokes",
       "email": "scottspork@gmail.com"
-    }
+    },
+      {
+      "name": "Justin Podolak",
+     
+    },
   ],
   "keywords": [
-    "usps",
-    "web-tools",
-    "web",
-    "tools",
-    "address",
-    "validation",
-    "standardization"
+    "usps"
+
   ],
   "dependencies": {
     "request": "2.75.0",
